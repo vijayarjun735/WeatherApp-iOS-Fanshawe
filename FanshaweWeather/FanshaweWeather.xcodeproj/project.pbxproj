@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		57191D252D94F92E00867872 /* Exceptions for "FanshaweWeather" folder in "FanshaweWeather" target */ = {
+		57D1426E2D95C3080047718D /* Exceptions for "FanshaweWeather" folder in "FanshaweWeather" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -43,7 +43,7 @@
 		57191CFF2D94F92D00867872 /* FanshaweWeather */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				57191D252D94F92E00867872 /* Exceptions for "FanshaweWeather" folder in "FanshaweWeather" target */,
+				57D1426E2D95C3080047718D /* Exceptions for "FanshaweWeather" folder in "FanshaweWeather" target */,
 			);
 			path = FanshaweWeather;
 			sourceTree = "<group>";
